@@ -33,7 +33,7 @@ Página de e-commerce desenvolvida a partir de um layout do Figma, com vitrine d
 
 ```bash
 # 1. Clone o repositório
-git clone <uhttps://github.com/giotrzz/teste-front-end.git>
+git clone <https://github.com/giotrzz/teste-front-end.git>
 cd teste-front-end
 
 # 2. Instale as dependências
